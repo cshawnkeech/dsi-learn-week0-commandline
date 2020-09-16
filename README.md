@@ -7,3 +7,11 @@ Using only the `cd`, `ls` and `cp` commands (don't use finder or mkdir), copy fo
 # Tips
 * Use tab completion to help you narrow down what folders to copy
 
+--9/15/20
+Renamed conjuction conjunction (missing "n").
+
+My Sentence:
+
+'sentence/the/family/xylophone/sat/majestically'
+
+Edited in vim; C Shawn Keech
